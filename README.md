@@ -9,20 +9,16 @@ This web application is a simple ToDo List manager built with Node.js, Express, 
 - Node.js installed
 - MongoDB installed and running
 
-bash
-Copy code
+
 https://github.com/satishkumarmurugan/To-do-List.git
 cd todo-list-app
 
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Run the application:
 
-bash
-Copy code
 node app.js
 The app will be accessible at http://localhost:3000.
 
